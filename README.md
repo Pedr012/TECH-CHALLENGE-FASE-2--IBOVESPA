@@ -100,4 +100,4 @@ Dados Históricos do IBOVESPA (4 anos)
 ├── requirements.txt        # Dependências Python
 ├── .gitignore             # Arquivos a ignorar
 ├── LICENSE                # Licença do projeto
-├── data/                  # Dados 
+├── notebooks/             # Arquivos do projeto
