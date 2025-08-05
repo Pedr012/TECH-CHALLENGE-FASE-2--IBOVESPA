@@ -19,7 +19,7 @@ Desenvolvimento de modelo de machine learning para predição da direção do í
 ## 🔬 Metodologia
 
 ### Modelos Implementados
-- **Random Forest**: Baseline com 70% de acurácia
+- **Random Forest**: Baseline com 60% de acurácia
 - **XGBoost**: Modelo final otimizado com 76.7% de acurácia
 
 ### Feature Engineering
@@ -100,4 +100,4 @@ Dados Históricos do IBOVESPA (4 anos)
 ├── requirements.txt        # Dependências Python
 ├── .gitignore             # Arquivos a ignorar
 ├── LICENSE                # Licença do projeto
-├── data/                  # Dados 
+├── notebooks/             # Arquivos do projeto
