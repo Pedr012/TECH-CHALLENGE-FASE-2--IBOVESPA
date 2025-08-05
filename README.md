@@ -19,7 +19,7 @@ Desenvolvimento de modelo de machine learning para predição da direção do í
 ## 🔬 Metodologia
 
 ### Modelos Implementados
-- **Random Forest**: Baseline com 70% de acurácia
+- **Random Forest**: Baseline com 60% de acurácia
 - **XGBoost**: Modelo final otimizado com 76.7% de acurácia
 
 ### Feature Engineering
